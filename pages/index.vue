@@ -2,12 +2,13 @@
   <div>
     <HeroBanner />
     <FacultyInNumbers />
+    <CtaBanner />
+
     <suggestions />
     <News />
     <Events />
     <Department />
     <UseFul />
-    <CtaBanner />
   </div>
 </template>
 
